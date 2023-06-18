@@ -2,8 +2,9 @@
 
 <img src="https://cdn.discordapp.com/attachments/1119689002455416894/1120116517330231296/dJxMRCz.png">
 
-<br>
-
+<h1>
+</h1>
+  
 #### Distro: EndeavourOS
 
 #### Terminal: Kitty
